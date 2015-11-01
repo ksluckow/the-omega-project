@@ -25,7 +25,7 @@ void *realloc(void *p, size_t s);
 #define free(x)		free((char *)(x))
 #endif
 
-char scanBuf[1024];
+char scanBuf[10240];
 void initializeScanBuffer() {
 	scanBuf[0] = '\0';
 	};
