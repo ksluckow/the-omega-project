@@ -1,6 +1,8 @@
 # Omega Project Source Release, version 2.1 #
 
-This is a slightly fixed version of the Omega Calculator that can parser much larger input formulas than the original version, which was limited to ~1000 characters.
+This is a fixed version of the Omega Calculator that can parser much larger input formulas than the original version, which was limited to ~1000 characters.
+
+It is a fork of the original [Omega repository](http://github.com/davewathaverford/the-omega-project/).
 
 ## Omega ##
 This is verion 2.1 of the Omega Project software, including:
